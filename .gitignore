@@ -1,0 +1,4 @@
+﻿# pytest框架项目忽略的文件
+.pytest_cache
+.idea
+report
